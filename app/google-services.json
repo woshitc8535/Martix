@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255890737205",
+    "firebase_url": "https://matrix-830e2.firebaseio.com",
+    "project_id": "matrix-830e2",
+    "storage_bucket": "matrix-830e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255890737205:android:cbd439a2a0ffb550c1097c",
+        "android_client_info": {
+          "package_name": "com.laioffer.matrix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255890737205-o5qtm78gromqp3msun4ed2amfqv5ei11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laioffer.matrix",
+            "certificate_hash": "df52e0a11c991f97a3e64cc028262ad52e1a4834"
+          }
+        },
+        {
+          "client_id": "255890737205-eg60lsv7keok2sp8p26ndn5rkbe6tcih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVL6Abz9dOKTPBIjY0BRmw4l5FuHxQVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255890737205-eg60lsv7keok2sp8p26ndn5rkbe6tcih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
